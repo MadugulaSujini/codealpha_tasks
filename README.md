@@ -27,5 +27,21 @@ Bot: I am chatbot.
 User: Bye
 Bot: Goodbye! Have a nice day.
 
-## Author
-Sujini Madugula
+
+# Stock Portfolio Tracker
+## Description
+A Python application that calculates the total investment value of a stock portfolio based on user-selected stocks and quantities.
+
+## Features
+* Accepts stock name and quantity
+* Calculates investment value
+* Simple console-based interface
+
+## Technologies Used
+* Python
+
+## How to Run
+1. Run the Python file.
+2. Enter the stock name.
+3. Enter the quantity.
+4. View the total investment value.
