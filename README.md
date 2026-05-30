@@ -1,5 +1,5 @@
 # codealpha_tasks
-# codealpha Chatbot project
+# Chatbot Task 4
 ## Project Description
 This project is a simple AI-based chatbot developed using Python. The chatbot interacts with users by accepting text input and providing predefined responses.
 
@@ -28,7 +28,7 @@ User: Bye
 Bot: Goodbye! Have a nice day.
 
 
-# Stock Portfolio Tracker
+# Stock Portfolio Tracker Task 2
 ## Description
 A Python application that calculates the total investment value of a stock portfolio based on user-selected stocks and quantities.
 
